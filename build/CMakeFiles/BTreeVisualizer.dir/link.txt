@@ -1,0 +1,1 @@
+/usr/sbin/c++ -Wl,--dependency-file=CMakeFiles/BTreeVisualizer.dir/link.d CMakeFiles/BTreeVisualizer.dir/src/main.cpp.o -o BTreeVisualizer  /usr/lib/libraylib.so -lm -ldl -lpthread -lGL -lX11 -L/usr/lib -lraylib
